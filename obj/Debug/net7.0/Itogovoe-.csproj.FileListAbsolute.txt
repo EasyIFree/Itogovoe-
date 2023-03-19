@@ -1,0 +1,15 @@
+/Users/gerdazvereva/Учеба ГБ/Итоговое задание/Itogovoe-/bin/Debug/net7.0/Itogovoe-
+/Users/gerdazvereva/Учеба ГБ/Итоговое задание/Itogovoe-/bin/Debug/net7.0/Itogovoe-.deps.json
+/Users/gerdazvereva/Учеба ГБ/Итоговое задание/Itogovoe-/bin/Debug/net7.0/Itogovoe-.runtimeconfig.json
+/Users/gerdazvereva/Учеба ГБ/Итоговое задание/Itogovoe-/bin/Debug/net7.0/Itogovoe-.dll
+/Users/gerdazvereva/Учеба ГБ/Итоговое задание/Itogovoe-/bin/Debug/net7.0/Itogovoe-.pdb
+/Users/gerdazvereva/Учеба ГБ/Итоговое задание/Itogovoe-/obj/Debug/net7.0/Itogovoe-.csproj.AssemblyReference.cache
+/Users/gerdazvereva/Учеба ГБ/Итоговое задание/Itogovoe-/obj/Debug/net7.0/Itogovoe-.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gerdazvereva/Учеба ГБ/Итоговое задание/Itogovoe-/obj/Debug/net7.0/Itogovoe-.AssemblyInfoInputs.cache
+/Users/gerdazvereva/Учеба ГБ/Итоговое задание/Itogovoe-/obj/Debug/net7.0/Itogovoe-.AssemblyInfo.cs
+/Users/gerdazvereva/Учеба ГБ/Итоговое задание/Itogovoe-/obj/Debug/net7.0/Itogovoe-.csproj.CoreCompileInputs.cache
+/Users/gerdazvereva/Учеба ГБ/Итоговое задание/Itogovoe-/obj/Debug/net7.0/Itogovoe-.dll
+/Users/gerdazvereva/Учеба ГБ/Итоговое задание/Itogovoe-/obj/Debug/net7.0/refint/Itogovoe-.dll
+/Users/gerdazvereva/Учеба ГБ/Итоговое задание/Itogovoe-/obj/Debug/net7.0/Itogovoe-.pdb
+/Users/gerdazvereva/Учеба ГБ/Итоговое задание/Itogovoe-/obj/Debug/net7.0/Itogovoe-.genruntimeconfig.cache
+/Users/gerdazvereva/Учеба ГБ/Итоговое задание/Itogovoe-/obj/Debug/net7.0/ref/Itogovoe-.dll
